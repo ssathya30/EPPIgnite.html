@@ -229,7 +229,73 @@ body {margin:0;}
   <a href="#"><i class="fa fa-globe"></i></a>
   <a href="#"><i class="fa fa-trash"></i></a> 
 </div>
-
 </body>
 </html> 
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Discussion/Tutoring Page -->
+	<!-- Left Table
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 20%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2></h2>
+
+<table>
+  <tr>
+    <th>Topics</th>
+  </tr>
+  <tr>
+    <td>Basics</td> 
+  </tr>
+  <tr>
+    <td>Part 2</td>
+  </tr>
+  <tr>
+    <td>Part 3</td>
+  </tr>
+  <tr>
+    <td>Part 4</td>
+  </tr>
+  <tr>
+    <td>Part 5</td>
+  </tr>
+  <tr>
+    <td>Part 6</td>
+  </tr>
+</table>
+
+</body>
+</html>
+-->
+
